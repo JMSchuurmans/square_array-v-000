@@ -7,4 +7,3 @@ def square_array(numbers)
   end
   squared_array
 end
-
